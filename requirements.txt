@@ -1,8 +1,0 @@
-fpdf
-scipy
-streamlit
-pandas
-numpy
-polars
-plotly
-statsmodels
